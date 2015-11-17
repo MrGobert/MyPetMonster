@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1A39E64C1BF80555001BE66B"
-               BuildableName = "MyLittleMonster.app"
-               BlueprintName = "MyLittleMonster"
-               ReferencedContainer = "container:MyLittleMonster.xcodeproj">
+               BuildableName = "MyPetMonster.app"
+               BlueprintName = "MyPetMonster"
+               ReferencedContainer = "container:MyPetMonster.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1A39E64C1BF80555001BE66B"
-            BuildableName = "MyLittleMonster.app"
-            BlueprintName = "MyLittleMonster"
-            ReferencedContainer = "container:MyLittleMonster.xcodeproj">
+            BuildableName = "MyPetMonster.app"
+            BlueprintName = "MyPetMonster"
+            ReferencedContainer = "container:MyPetMonster.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1A39E64C1BF80555001BE66B"
-            BuildableName = "MyLittleMonster.app"
-            BlueprintName = "MyLittleMonster"
-            ReferencedContainer = "container:MyLittleMonster.xcodeproj">
+            BuildableName = "MyPetMonster.app"
+            BlueprintName = "MyPetMonster"
+            ReferencedContainer = "container:MyPetMonster.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1A39E64C1BF80555001BE66B"
-            BuildableName = "MyLittleMonster.app"
-            BlueprintName = "MyLittleMonster"
-            ReferencedContainer = "container:MyLittleMonster.xcodeproj">
+            BuildableName = "MyPetMonster.app"
+            BlueprintName = "MyPetMonster"
+            ReferencedContainer = "container:MyPetMonster.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
